@@ -1,6 +1,6 @@
 # ToDoList.Api
 This API allows users to manage a to-do list by creating, updating, and deleting tasks.
-It is built with ASP.NET WebAPI and uses SQL Server for database management.
+It is built with ASP.NET WebAPI and uses SQLite for database management.
 The API is designed to be simple and scalable.
 
 ## Features
