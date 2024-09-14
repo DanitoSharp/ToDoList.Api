@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\todolist.api\\ToDoList.Api.csproj": {}
+    "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\ToDoList.Api\\ToDoList.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\todolist.api\\ToDoList.Api.csproj": {
+    "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\ToDoList.Api\\ToDoList.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\todolist.api\\ToDoList.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\ToDoList.Api\\ToDoList.Api.csproj",
         "projectName": "ToDoList.Api",
-        "projectPath": "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\todolist.api\\ToDoList.Api.csproj",
+        "projectPath": "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\ToDoList.Api\\ToDoList.Api.csproj",
         "packagesPath": "C:\\Users\\Daniel Ekeleme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\todolist.api\\obj\\",
+        "outputPath": "C:\\Users\\Daniel Ekeleme\\Documents\\Dotnet\\WebApi\\ToDoList.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Daniel Ekeleme\\AppData\\Roaming\\NuGet\\NuGet.Config",
